@@ -1,0 +1,11 @@
+/* --- App Shell & Sidebar --- */
+.app-shell {
+  display: flex;
+  padding-top: 64px;
+  min-height: 100vh;
+}
+
+.app-shell {
+  display: flex;
+  min-height: 100vh;
+}
